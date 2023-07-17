@@ -1,0 +1,51 @@
+Index,Sno,Movie Name,Director1,Director2,Duration,Year,Ratings,Metascore,Star1,Star2,Star3,Star4,Votes,Genre1,Genre2,Genre3,Gross Collection,Popularity,Certification
+1,1,The Dark Knight,Christopher Nolan,Christian Bale,152,2008,9.0,84.0,Christopher Nolan,Christian Bale,Heath Ledger,Aaron Eckhart,2737930,Action,Crime,Drama,2737930,,UA
+2,2,The Lord of the Rings: The Return of the King,Peter Jackson,Elijah Wood,201,2003,9.0,94.0,Peter Jackson,Elijah Wood,Viggo Mortensen,Ian McKellen,1897456,Action,Adventure,Drama,1897456,,U
+3,3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,140,2023,8.9,86.0,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,Shameik Moore,179975,Animation,Action,Adventure,179975,,U
+4,4,Inception,Christopher Nolan,Leonardo DiCaprio,148,2010,8.8,74.0,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,2429596,Action,Adventure,Sci-Fi,2429596,,UA
+5,5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,Elijah Wood,178,2001,8.8,92.0,Peter Jackson,Elijah Wood,Ian McKellen,Orlando Bloom,1925886,Action,Adventure,Drama,1925886,,U
+6,6,The Lord of the Rings: The Two Towers,Peter Jackson,Elijah Wood,179,2002,8.8,87.0,Peter Jackson,Elijah Wood,Ian McKellen,Viggo Mortensen,1712386,Action,Adventure,Drama,1712386,,UA
+7,7,The Matrix,Lana Wachowski,Lilly Wachowski,136,1999,8.7,73.0,Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,1969511,Action,Sci-Fi,,1969511,,A
+8,8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,Mark Hamill,124,1980,8.7,82.0,Irvin Kershner,Mark Hamill,Harrison Ford,Carrie Fisher,1328745,Action,Adventure,Fantasy,1328745,,UA
+9,9,Soorarai Pottru,Sudha Kongara,Suriya,153,2020,8.7,,Sudha Kongara,Suriya,Paresh Rawal,Aparna Balamurali,119962,Action,Drama,,119962,,U
+10,10,Terminator 2: Judgment Day,James Cameron,Arnold Schwarzenegger,137,1991,8.6,75.0,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,1130058,Action,Sci-Fi,,1130058,,A
+11,11,Star Wars,George Lucas,Mark Hamill,121,1977,8.6,90.0,George Lucas,Mark Hamill,Harrison Ford,Carrie Fisher,1400947,Action,Adventure,Fantasy,1400947,,U
+12,12,Shichinin no samurai,Akira Kurosawa,Toshirô Mifune,207,1954,8.6,98.0,Akira Kurosawa,Toshirô Mifune,Takashi Shimura,Keiko Tsushima,354664,Action,Drama,,354664,,U
+13,13,Seppuku,Masaki Kobayashi,Tatsuya Nakadai,133,1962,8.6,85.0,Masaki Kobayashi,Tatsuya Nakadai,Akira Ishihama,Shima Iwashita,61954,Action,Drama,Mystery,61954,,
+14,14,Sita Ramam,Hanu Raghavapudi,Dulquer Salmaan,163,2022,8.6,,Hanu Raghavapudi,Dulquer Salmaan,Mrunal Thakur,Rashmika Mandanna,61289,Action,Drama,Mystery,61289,,U
+15,15,Gladiator,Ridley Scott,Russell Crowe,155,2000,8.5,67.0,Ridley Scott,Russell Crowe,Joaquin Phoenix,Connie Nielsen,1544827,Action,Adventure,Drama,1544827,,UA
+16,16,Léon,Luc Besson,Jean Reno,110,1994,8.5,64.0,Luc Besson,Jean Reno,Gary Oldman,Natalie Portman,1196336,Action,Crime,Drama,1196336,,A
+17,17,Raiders of the Lost Ark,Steven Spielberg,Harrison Ford,115,1981,8.4,85.0,Steven Spielberg,Harrison Ford,Karen Allen,Paul Freeman,1001437,Action,Adventure,,1001437,,A
+18,18,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,117,2018,8.4,87.0,Bob Persichetti,Peter Ramsey,Rodney Rothman,Shameik Moore,606646,Animation,Action,Adventure,606646,,U
+19,19,Aliens,James Cameron,Sigourney Weaver,137,1986,8.4,84.0,James Cameron,Sigourney Weaver,Michael Biehn,Carrie Henn,736393,Action,Adventure,Sci-Fi,736393,,U
+20,20,Avengers: Endgame,Anthony Russo,Joe Russo,181,2019,8.4,78.0,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Evans,1192877,Action,Adventure,Drama,1192877,,UA
+21,21,Oldeuboi,Park Chan-wook,Choi Min-sik,101,2003,8.4,77.0,Park Chan-wook,Choi Min-sik,Yoo Ji-tae,Kang Hye-jeong,600751,Action,Drama,Mystery,600751,,A
+22,22,The Dark Knight Rises,Christopher Nolan,Christian Bale,164,2012,8.4,78.0,Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway,1752444,Action,Drama,Thriller,1752444,,UA
+23,23,Avengers: Infinity War,Anthony Russo,Joe Russo,149,2018,8.4,68.0,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Hemsworth,1135369,Action,Adventure,Sci-Fi,1135369,,UA
+24,24,Kaithi,Lokesh Kanagaraj,Karthi,145,2019,8.4,,Lokesh Kanagaraj,Karthi,Narain,Arjun Das,36706,Action,Adventure,Crime,36706,,UA
+25,25,Asuran,Vetrimaaran,Dhanush,141,2019,8.4,,Vetrimaaran,Dhanush,Manju Warrier,Prakash Raj,31492,Action,Drama,,31492,,UA
+26,26,Top Gun: Maverick,Joseph Kosinski,Tom Cruise,130,2022,8.3,78.0,Joseph Kosinski,Tom Cruise,Jennifer Connelly,Miles Teller,606931,Action,Drama,,606931,,UA
+27,27,Heat,Michael Mann,Al Pacino,170,1995,8.3,76.0,Michael Mann,Al Pacino,Robert De Niro,Val Kilmer,682258,Action,Crime,Drama,682258,,A
+28,28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,Mark Hamill,131,1983,8.3,58.0,Richard Marquand,Mark Hamill,Harrison Ford,Carrie Fisher,1083420,Action,Adventure,Fantasy,1083420,,U
+29,29,Mononoke-hime,Hayao Miyazaki,Yôji Matsuda,134,1997,8.3,76.0,Hayao Miyazaki,Yôji Matsuda,Yuriko Ishida,Yûko Tanaka,409873,Animation,Action,Adventure,409873,,U
+30,30,North by Northwest,Alfred Hitchcock,Cary Grant,136,1959,8.3,98.0,Alfred Hitchcock,Cary Grant,Eva Marie Saint,James Mason,336151,Action,Adventure,Mystery,336151,,U
+31,31,Dangal,Nitesh Tiwari,Aamir Khan,161,2016,8.3,,Nitesh Tiwari,Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh,198834,Action,Biography,Drama,198834,,U
+32,32,Kantara,Rishab Shetty,Rishab Shetty,148,2022,8.3,,Rishab Shetty,Rishab Shetty,Kishore Kumar G.,Achyuth Kumar,96692,Action,Adventure,Drama,96692,,UA
+33,33,K.G.F: Chapter 2,Prashanth Neel,Yash,168,2022,8.3,,Prashanth Neel,Yash,Sanjay Dutt,Raveena Tandon,140771,Action,Crime,Drama,140771,,UA
+34,34,Vikram,Lokesh Kanagaraj,Kamal Haasan,175,2022,8.3,,Lokesh Kanagaraj,Kamal Haasan,Vijay Sethupathi,Fahadh Faasil,64670,Action,Crime,Thriller,64670,,UA
+35,35,Shershaah,Vishnuvardhan,Sidharth Malhotra,135,2021,8.3,,Vishnuvardhan,Sidharth Malhotra,Kiara Advani,Shiv Panditt,125421,Action,Biography,Drama,125421,,UA
+36,36,Ratsasan,Ram Kumar,Vishnu Vishal,170,2018,8.3,,Ram Kumar,Vishnu Vishal,Amala Paul,Radha Ravi,47410,Action,Crime,Drama,47410,,UA
+37,37,Mission: Impossible - Dead Reckoning Part One,Christopher McQuarrie,Tom Cruise,163,2023,8.2,81.0,Christopher McQuarrie,Tom Cruise,Hayley Atwell,Ving Rhames,25283,Action,Adventure,Thriller,25283,,UA
+38,38,Indiana Jones and the Last Crusade,Steven Spielberg,Harrison Ford,127,1989,8.2,65.0,Steven Spielberg,Harrison Ford,Sean Connery,Alison Doody,782196,Action,Adventure,,782196,,U
+39,39,Spider-Man: No Way Home,Jon Watts,Tom Holland,148,2021,8.2,71.0,Jon Watts,Tom Holland,Zendaya,Benedict Cumberbatch,811801,Action,Adventure,Fantasy,811801,,UA
+40,40,Jurassic Park,Steven Spielberg,Sam Neill,127,1993,8.2,68.0,Steven Spielberg,Sam Neill,Laura Dern,Jeff Goldblum,1021818,Action,Adventure,Sci-Fi,1021818,,UA
+41,41,Batman Begins,Christopher Nolan,Christian Bale,140,2005,8.2,70.0,Christopher Nolan,Christian Bale,Michael Caine,Ken Watanabe,1512852,Action,Crime,Drama,1512852,,UA
+42,42,1917,Sam Mendes,Dean-Charles Chapman,119,2019,8.2,78.0,Sam Mendes,Dean-Charles Chapman,George MacKay,Daniel Mays,628119,Action,Drama,War,628119,,R
+43,43,Die Hard,John McTiernan,Bruce Willis,132,1988,8.2,72.0,John McTiernan,Bruce Willis,Alan Rickman,Bonnie Bedelia,905503,Action,Thriller,,905503,,A
+44,44,Kill Bill: Vol. 1,Quentin Tarantino,Uma Thurman,111,2003,8.2,69.0,Quentin Tarantino,Uma Thurman,David Carradine,Daryl Hannah,1146772,Action,Crime,Thriller,1146772,,A
+45,45,V for Vendetta,James McTeigue,Hugo Weaving,132,2005,8.2,62.0,James McTeigue,Hugo Weaving,Natalie Portman,Rupert Graves,1145261,Action,Drama,Sci-Fi,1145261,,UA
+46,46,Kimetsu no Yaiba: Mugen Ressha-Hen,Haruo Sotozaki,Natsuki Hanae,117,2020,8.2,72.0,Haruo Sotozaki,Natsuki Hanae,Akari Kitô,Yoshitsugu Matsuoka,65928,Animation,Action,Adventure,65928,,UA
+47,47,Ran,Akira Kurosawa,Tatsuya Nakadai,162,1985,8.2,97.0,Akira Kurosawa,Tatsuya Nakadai,Akira Terao,Jinpachi Nezu,130146,Action,Drama,War,130146,,Not Rated
+48,48,Baahubali 2: The Conclusion,S.S. Rajamouli,Prabhas,167,2017,8.2,,S.S. Rajamouli,Prabhas,Rana Daggubati,Anushka Shetty,107962,Action,Drama,,107962,,UA
+49,49,Gangs of Wasseypur,Anurag Kashyap,Manoj Bajpayee,321,2012,8.2,89.0,Anurag Kashyap,Manoj Bajpayee,Nawazuddin Siddiqui,Tigmanshu Dhulia,99821,Action,Comedy,Crime,99821,,A
+50,50,Yôjinbô,Akira Kurosawa,Toshirô Mifune,110,1961,8.2,93.0,Akira Kurosawa,Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai,126607,Action,Drama,Thriller,126607,,U
